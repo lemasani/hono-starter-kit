@@ -17,7 +17,7 @@ A production-ready starter template for building TypeScript APIs with Hono.js, f
 
 ## 📋 Prerequisites
 
-- Node.js 20+ 
+- Node.js 20+
 - pnpm (or npm/yarn)
 - Docker (for PostgreSQL)
 
@@ -76,13 +76,13 @@ Server runs at `http://localhost:3000`
 
 ## 📚 API Documentation
 
-- **Interactive docs**: http://localhost:3000/reference
-- **Auth endpoints**: http://localhost:3000/api/auth/reference
-- **OpenAPI spec**: http://localhost:3000/doc
+- **Interactive docs**: <http://localhost:3000/reference>
+- **Auth endpoints**: <http://localhost:3000/api/auth/reference>
+- **OpenAPI spec**: <http://localhost:3000/doc>
 
 ## 🏗️ Project Structure
 
-```
+```tree
 hono-starter-kit/
 ├── src/
 │   ├── app.ts                 # App assembly & route registration
