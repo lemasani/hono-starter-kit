@@ -26,7 +26,7 @@ A production-ready starter template for building TypeScript APIs with Hono.js, f
 ### 1. Clone or use this template
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/lemasani/hono-starter-kit.git
 cd hono-starter-kit
 ```
 
